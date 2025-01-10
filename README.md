@@ -1,67 +1,75 @@
-<div align="center">
-  <a href="https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine Banner" width="80%">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=DenzzX1T;+I'm+a+beginner;" />
+</h1>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9e/b6/45/9eb64510150a5eaa7bc6e89e366508e7.gif" alt="animated banner" />
+</p>
+
+<h3 align="center">Hi there! DenzzX1T 👋</h3>
+
+<p align="center">
+  I'm a passionate learner, always excited to explore new things. I may be a beginner, but I'm determined to keep improving every day! 🚀
+  
+- Currently a student  
+- Still a beginner in coding  
+- Not a master yet, but working on it!  
+- I love music and anime, especially loli 😋
+</p>
+
+---
+
+### 📝 **Biodata**
+For more info, visit my [GitHub profile](https://github.com/DenzzX1T).
+
+```json
+{
+  "Fullname": "Raden Prasetya",
+  "Nickname": "DenzzX1T",
+  "Status": "Student",
+  "Location": "Pekalongan, Jawa Tengah, Indonesia",
+  "Age": "Still figuring it out...",
+  "Birthday": "Undisclosed"
+}
+```
+
+### **🎵 Favorite Music**
+Check out what I’m listening to right now! 🎧
+<p align="center">
+  <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+
+> * 00:00​ ━❍──────── 12:27 
+> * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
+
+### 🌐 **My Profile**
+Click the button below to visit my full profile:
+
+<p align="center">
+  <a href="https://ssateam.my.id/profile/dims" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-Visit%20Now-blue?style=for-the-badge&logo=web&logoColor=white" alt="Visit Profile">
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <p>
-    <a href="https://itsreimau.is-a.dev">
-      <img src="banner_rei-ayanami.webp" alt="Rei Ayanami Banner" width="80%">
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/denzzx1t">
-      <img src="https://github-readme-stats.vercel.app/api?username=DenzzX1T&show_icons=true&theme=dark" alt="DenzzX1T GitHub Stats" width="60%">
-    </a>
-  </p>
-
-  <p>
-    <a href="https://www.facebook.com/denzzx1t">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
-    </a>
-    <a href="https://github.com/denzzx1t">
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
-    </a>
-    <a href="https://www.instagram.com/denzzx1t">
-      <img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
-    </a>
-    <a href="https://linkedin.com/in/denzzz1t-9078352a7">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-    </a>
-    <a href="https://mastodon.social/@denzzx1t">
-      <img src="https://img.shields.io/badge/Mastodon-4C4C4C?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon">
-    </a>
-    <a href="https://t.me/denzzx1t">
-      <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
-    </a>
-    <a href="https://threads.net/denzzx1t">
-      <img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white&style=for-the-badge" alt="Threads">
-    </a>
-    <a href="https://tiktok.com/@denzzx1t">
-      <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok">
-    </a>
-    <a href="https://twitter.com/denzzx1t">
-      <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X">
-    </a>
-  </p>
-
-  <p>
-    🌟 Hello! My name is Raden Prasetya alias DenzzX1T. Nobody, just someone who loves Evangelion and programming.
-  </p>
-
-  <h2>🎧 Now Playing on Spotify 🎵</h2>
-
-  <p>
-    <a href="https://open.spotify.com/user/31253dtz6tzyra5ewpcgpipeuefy">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" width="30%">
-    </a>
-  </p>
+<h2 align="center">📊 Stats</h2> 
+  <div align="center"> 
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DenzzX1T&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=DenzzX1T&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
+  <br/> 
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DenzzX1T&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
 </div>
 
----
+### 🌐 **Find Me on Social Media**
+<p align="center"> 
+  <a href="https://instagram.com/radenapple8"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
+  <a href="https://www.youtube.com/@denzzx1t"> <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" /> </a> 
+  <a href="https://wa.me/6281398274790"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
+</p>
 
-<p align="center">Thank you for visiting my profile! Feel free to connect with me on my social media!</p>
+### 💖 **Support Me**
+If you enjoy my work, consider supporting me with a donation!
+<p align="center"> 
+  <a href="https://saweria.co/denzzx1t"> <img src="https://img.shields.io/badge/Donate-Saweria-ff3e00?style=for-the-badge&logo=steam&logoColor=white" /> </a> 
+  <a href="https://trakteer.id/denzzx1t"> <img src="https://img.shields.io/badge/Donate-Trakteer-4B9F4A?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
+</p>
